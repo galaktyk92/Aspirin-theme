@@ -26,7 +26,7 @@
     /*General settings*/
     --general-radius: 5px; /*Changes the radius of most modals | Default 5px*/
     --main-color: 52, 52, 52; /*Main color of the theme | WARNING: USE RGB VALUES IF YOU CHANGE THE COLOR | Default 52, 52, 52*/
-    --main-accent: 147, 227, 32; /*Theme accent color | WARNING: USE RGB VALUES IF YOU CHANGE THE COLOR | Default 147, 227, 32*/
+    --main-accent: 147, 227, 32; /*Theme accent color | WARNING: USE RGB VALUES IF YOU CHANGE THE COLOR | Default 207, 70, 70*/
     --avatar-radius: 5px; /*Avatar's radius | Default 5px*/
     --links-color:  147, 227, 32; /*Changes the color of the links | Default 147, 227, 32*/
     --settings-width: 60%; /*Width for the settings window | Default 60%*/
